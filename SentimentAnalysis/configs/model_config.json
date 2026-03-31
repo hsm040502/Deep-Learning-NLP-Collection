@@ -1,0 +1,9 @@
+{
+    "embedding_dim": 300,
+    "hidden_dim": 256,
+    "output_dim": 3,
+    "n_layers": 2,
+    "bidirectional": true,
+    "dropout": 0.5,
+    "rnn_type": "lstm"
+} 
